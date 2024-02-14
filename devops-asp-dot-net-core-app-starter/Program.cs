@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace devops_asp_dot_net_core_app_starter
 {
-    public class Program
+    public class Program 
     {
         public static void Main(string[] args)
         {
